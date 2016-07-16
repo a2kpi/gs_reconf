@@ -1,9 +1,16 @@
 <map version="freeplane 1.5.9">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
+<<<<<<< HEAD
 <node TEXT="R&#xc9;FLEXIONS&#xa;&#xa;Dynamiser le SCCF_50&#xa;S&apos;approprier le projet national" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_1573594237" CREATED="1462710693327" MODIFIED="1468672892189" BACKGROUND_COLOR="#33ccff" TEXT_ALIGN="CENTER" MAX_WIDTH="260.0 pt" MIN_WIDTH="182.0 pt">
 <font SIZE="16"/>
 <hook NAME="MapStyle" background="#f7f7f7">
     <properties fit_to_viewport="false;" show_icon_for_attributes="true" show_note_icons="true"/>
+=======
+<node TEXT="R&#xe9;flexions&#xa;SCCF_50 Reconf 2.0" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_1573594237" CREATED="1462710693327" MODIFIED="1468668585807" TEXT_ALIGN="CENTER" MAX_WIDTH="260.0 pt" MIN_WIDTH="182.0 pt" VGAP_QUANTITY="10.0 pt">
+<font SIZE="16"/>
+<hook NAME="MapStyle" background="#f7f7f7">
+    <properties show_icon_for_attributes="true" fit_to_viewport="false;" show_note_icons="false"/>
+>>>>>>> fe38a9b2a552dd5422d315a6c09efead098dc9d5
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt" TEXT_SHORTENED="true">
@@ -112,6 +119,18 @@
 </hook>
 <hook NAME="AutomaticEdgeColor" COUNTER="0" RULE="FOR_BRANCHES"/>
 <edge COLOR="#000000"/>
+<<<<<<< HEAD
 <node TEXT="Introduction et contexte" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" POSITION="right" ID="ID_1118780235" CREATED="1462729792536" MODIFIED="1468672961837" BACKGROUND_COLOR="#ccffcc"/>
+=======
+<node TEXT="Intro &amp; contexte" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" POSITION="left" ID="ID_1332007370" CREATED="1462729844988" MODIFIED="1468668585807" BACKGROUND_COLOR="#ffd5ad" VGAP_QUANTITY="5.0 pt" HGAP_QUANTITY="-196.0 pt" VSHIFT_QUANTITY="-37.5 pt">
+<hook NAME="FreeNode"/>
+<node TEXT="Cette carte de r&#xe9;flexions est un essai.&#xa;&#xa;Ses objectifs sont :" ID="ID_28841704" CREATED="1462715723956" MODIFIED="1468666458928" VGAP_QUANTITY="5.0 pt" HGAP_QUANTITY="-277.75 pt" VSHIFT_QUANTITY="-80.25 pt" TEXT_ALIGN="LEFT">
+<node TEXT="&lt;html&gt;&#xa;  &lt;head&gt;&#xa;    &#xa;  &lt;/head&gt;&#xa;  &lt;body&gt;&#xa;    &lt;p&gt;&#xa;      &lt;b style=&quot;background-color: yellow&quot;&gt;&lt;font color=&quot;black&quot;&gt;Bousculer&lt;/font&gt;&lt;/b&gt;&amp;#160;et &lt;b style=&quot;background-color: yellow&quot;&gt;r&amp;#233;veiller&lt;/b&gt;&amp;#160;les consciences anesth&amp;#233;si&amp;#233;es (synth&amp;#232;se pape Fran&amp;#231;ois)&#xa;    &lt;/p&gt;&#xa;  &lt;/body&gt;&#xa;&lt;/html&gt;" ID="ID_1804252477" CREATED="1468665842336" MODIFIED="1468666340371" HGAP_QUANTITY="-247.0 pt" VSHIFT_QUANTITY="-15.75 pt"/>
+<node TEXT="Organiser et classer r&#xe9;flexions et r&#xe9;f&#xe9;rences" ID="ID_11828535" CREATED="1468666040779" MODIFIED="1468666345358" HGAP_QUANTITY="-264.25 pt" VSHIFT_QUANTITY="-32.25 pt"/>
+<node TEXT="Questionner pour s&apos;approprier le projet national" ID="ID_463380917" CREATED="1468666073891" MODIFIED="1468666348459" HGAP_QUANTITY="-272.5 pt" VSHIFT_QUANTITY="-24.0 pt"/>
+<node TEXT="Proposer des pistes simples et rapide &#xe0; d&#xe9;ployer" ID="ID_564268273" CREATED="1468666089556" MODIFIED="1468666452592" HGAP_QUANTITY="-268.75 pt" VSHIFT_QUANTITY="-3.0 pt" TEXT_ALIGN="DEFAULT"/>
+</node>
+</node>
+>>>>>>> fe38a9b2a552dd5422d315a6c09efead098dc9d5
 </node>
 </map>
