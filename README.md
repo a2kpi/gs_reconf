@@ -8,7 +8,8 @@ Réflexions
 Dynamiser pour s'approprier le projet SCCF national
 -
 
-Freeplan doit être installé sur votre ordinateur 
-pour visualiser la carte mentale 
+Freeplane et Git doivent être installés  
+pour participer et faire évoluer cette carte 
 
-https://sourceforge.net/projects/freeplane/
+Freeplane : https://sourceforge.net/projects/freeplane/
+Git : https://git-for-windows.github.io/
