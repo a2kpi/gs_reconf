@@ -3,7 +3,7 @@
 <node TEXT="R&#xc9;FLEXIONS&#xa;&#xa;Dynamiser le SCCF_50&#xa;S&apos;approprier le projet national" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_1573594237" CREATED="1462710693327" MODIFIED="1468682849441" BACKGROUND_COLOR="#33ccff" TEXT_ALIGN="CENTER" MAX_WIDTH="260.0 pt" MIN_WIDTH="182.0 pt" VGAP_QUANTITY="10.0 pt">
 <font SIZE="16"/>
 <hook NAME="MapStyle" background="#f7f7f7">
-    <properties show_icon_for_attributes="true" fit_to_viewport="false;" show_note_icons="true"/>
+    <properties fit_to_viewport="false;" show_icon_for_attributes="true" show_note_icons="true" show_notes_in_map="true"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt" TEXT_SHORTENED="true">
@@ -112,13 +112,9 @@
 </hook>
 <hook NAME="AutomaticEdgeColor" COUNTER="0" RULE="FOR_BRANCHES"/>
 <edge COLOR="#000000"/>
-<node TEXT="&lt;html&gt;&#xa;  &lt;head&gt;&#xa;    &#xa;  &lt;/head&gt;&#xa;  &lt;body&gt;&#xa;    &lt;p&gt;&#xa;      Lorsqu&apos;un projet national est diffus&amp;#233;,&#xa;    &lt;/p&gt;&#xa;    &lt;p&gt;&#xa;      &#xa;    &lt;/p&gt;&#xa;    &lt;p&gt;&#xa;      &lt;b&gt;nous devons explorer de nouvelles pistes pour coller au plus pr&amp;#232;s&lt;/b&gt;&amp;#160;,&#xa;    &lt;/p&gt;&#xa;    &lt;p&gt;&#xa;      &#xa;    &lt;/p&gt;&#xa;    &lt;p&gt;&#xa;      et refuser le confort du &amp;quot;ah bin &amp;#231;a, on le fait d&amp;#233;j&amp;#224;&amp;quot; !...&#xa;    &lt;/p&gt;&#xa;  &lt;/body&gt;&#xa;&lt;/html&gt;" LOCALIZED_STYLE_REF="defaultstyle.floating" POSITION="right" ID="ID_1800473712" CREATED="1468682069958" MODIFIED="1468682849436" HGAP_QUANTITY="-57.75 pt" VSHIFT_QUANTITY="-97.5 pt" MAX_WIDTH="15.0 cm" MIN_WIDTH="11.0 cm" STYLE="bubble" SHAPE_VERTICAL_MARGIN="0.5 cm">
+<node LOCALIZED_STYLE_REF="defaultstyle.floating" POSITION="right" ID="ID_1800473712" CREATED="1468682069958" MODIFIED="1468682849436" HGAP_QUANTITY="-57.75 pt" VSHIFT_QUANTITY="-97.5 pt" MAX_WIDTH="15.0 cm" MIN_WIDTH="11.0 cm" STYLE="bubble" SHAPE_VERTICAL_MARGIN="0.5 cm">
 <icon BUILTIN="ksmiletris"/>
-<hook NAME="FreeNode"/>
-</node>
-<node TEXT="Introduction et contexte" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" POSITION="right" ID="ID_1118780235" CREATED="1462729792536" MODIFIED="1468682634243" BACKGROUND_COLOR="#ccffcc" HGAP_QUANTITY="92.0 pt" VSHIFT_QUANTITY="-26.25 pt">
-<node TEXT="Cette carte mentale est un essai.&#xa;&#xa;Ses objectifs sont :" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1001148534" CREATED="1468679307179" MODIFIED="1468679371974">
-<node ID="ID_521513880" CREATED="1468679392141" MODIFIED="1468684477498"><richcontent TYPE="NODE">
+<richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -126,20 +122,113 @@
   </head>
   <body>
     <p>
-      <font color="#000000"><b>Bousculer</b></font>&#160;et <b>r&#233;veiller</b>&#160;les consciences
+      Lorsqu'un projet national est diffus&#233;,
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      <b>nous devons explorer de nouvelles pistes pour coller au plus pr&#232;s</b>&#160;,
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      et refuser le confort du &quot;ah bin &#231;a, on le fait d&#233;j&#224;&quot; !...
     </p>
   </body>
 </html>
 
 </richcontent>
-<node TEXT="source radio vatican" ID="ID_1235623817" CREATED="1468681554420" MODIFIED="1468681655696" LINK="SOURCES/bousculer_conscience/radio_vatican_bousculer_les_consciences.pdf">
-<icon BUILTIN="bookmark"/>
+<hook NAME="FreeNode"/>
 </node>
-<node TEXT="" ID="ID_779053292" CREATED="1468681614989" MODIFIED="1468681614989"/>
+<node TEXT="Introduction et contexte" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" POSITION="right" ID="ID_1118780235" CREATED="1462729792536" MODIFIED="1468682634243" BACKGROUND_COLOR="#ccffcc" HGAP_QUANTITY="92.0 pt" VSHIFT_QUANTITY="-26.25 pt">
+<node TEXT="Cette carte mentale est un essai.&#xa;&#xa;Ses objectifs sont :" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1001148534" CREATED="1468679307179" MODIFIED="1468679371974">
+<node TEXT="&lt;html&gt;&#xa;  &lt;head&gt;&#xa;    &#xa;  &lt;/head&gt;&#xa;  &lt;body&gt;&#xa;    &lt;p&gt;&#xa;      &lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;Bousculer&lt;/font&gt;&lt;/b&gt;&amp;#160;et &lt;b&gt;r&amp;#233;veiller&lt;/b&gt;&amp;#160;les consciences&#xa;    &lt;/p&gt;&#xa;  &lt;/body&gt;&#xa;&lt;/html&gt;" ID="ID_521513880" CREATED="1468679392141" MODIFIED="1468690402664">
+<node ID="ID_499854772" CREATED="1468689828393" MODIFIED="1468690458292" MAX_WIDTH="10.0 cm" MIN_WIDTH="5.0 cm" TEXT_ALIGN="LEFT"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: left">
+      source : 08/06/2014
+    </p>
+    <p style="text-align: left">
+      radio vatican : lien externe
+    </p>
+    <p style="text-align: left">
+      pdf : lien interne
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      source : <a target="_blank" href="http://fr.radiovaticana.va/storico/2014/06/08/le_pape_appelle_leglise_%C3%A0_bousculer_les_consciences_en_annon%C3%A7ant/fr1-805574">texte transcrit sur radio vatican</a>
+    </p>
+    <p>
+      pdf : <a target="_blank" href="./SOURCES/bousculer_conscience/radio_vatican_bousculer_les_consciences.pdf">pdf pour m&#233;moire</a>
+    </p>
+  </body>
+</html>
+
+</richcontent>
 </node>
-<node TEXT="&lt;html&gt;&#xa;  &lt;head&gt;&#xa;    &#xa;  &lt;/head&gt;&#xa;  &lt;body&gt;&#xa;    &lt;p&gt;&#xa;      &lt;b&gt;Organiser&lt;/b&gt;&amp;#160;et &lt;b&gt;classer&lt;/b&gt;&amp;#160;les r&amp;#233;flexions/r&amp;#233;f&amp;#233;rences&#xa;    &lt;/p&gt;&#xa;  &lt;/body&gt;&#xa;&lt;/html&gt;" ID="ID_156917496" CREATED="1468679427451" MODIFIED="1468679817735"/>
-<node TEXT="&lt;html&gt;&#xa;  &lt;head&gt;&#xa;    &#xa;  &lt;/head&gt;&#xa;  &lt;body&gt;&#xa;    &lt;p&gt;&#xa;      &lt;b&gt;Questionner&lt;/b&gt;&amp;#160;pour &lt;b&gt;s&apos;approprier&lt;/b&gt;&amp;#160;le projet national&#xa;    &lt;/p&gt;&#xa;  &lt;/body&gt;&#xa;&lt;/html&gt;" ID="ID_1709285574" CREATED="1468679455269" MODIFIED="1468679840361"/>
-<node TEXT="&lt;html&gt;&#xa;  &lt;head&gt;&#xa;    &#xa;  &lt;/head&gt;&#xa;  &lt;body&gt;&#xa;    &lt;p&gt;&#xa;      &lt;b&gt;Proposer&lt;/b&gt;&amp;#160;des pistes simples &amp;#224; &lt;b&gt;d&amp;#233;ployer&lt;/b&gt;&#xa;    &lt;/p&gt;&#xa;  &lt;/body&gt;&#xa;&lt;/html&gt;" ID="ID_1246859720" CREATED="1468679482524" MODIFIED="1468679854569"/>
+</node>
+<node ID="ID_156917496" CREATED="1468679427451" MODIFIED="1468679817735"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Organiser</b>&#160;et <b>classer</b>&#160;les r&#233;flexions/r&#233;f&#233;rences
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node ID="ID_1709285574" CREATED="1468679455269" MODIFIED="1468679840361"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Questionner</b>&#160;pour <b>s'approprier</b>&#160;le projet national
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node ID="ID_1246859720" CREATED="1468679482524" MODIFIED="1468679854569"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Proposer</b>&#160;des pistes simples &#224; <b>d&#233;ployer</b>
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
 </node>
 </node>
 </node>
