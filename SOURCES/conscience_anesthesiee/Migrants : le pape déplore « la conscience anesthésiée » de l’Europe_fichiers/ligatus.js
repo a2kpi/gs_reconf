@@ -1,0 +1,1 @@
+define(function(require){var conf=require("lmd/core/conf");if(conf.fsw.ligatus){var img=document.createElement("img");img.src="https://d.ligatus.com/yield/srt?dt=1923";img.height=0;img.width=0;document.body.appendChild(img)}});

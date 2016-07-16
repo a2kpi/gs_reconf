@@ -1,0 +1,12 @@
+<project name="GEN_THESIS" ID="155F2A007F45EZUZWX3FBUN6CM6RE7B3V4K9" version="docear 1.0">
+<folder type="library" name="Library">
+<link type="literature_annotations" name="Literature &amp; Annotations" path="project://155F2A007F45EZUZWX3FBUN6CM6RE7B3V4K9/_data/155F2A007F45EZUZWX3FBUN6CM6RE7B3V4K9/default_files/literature_and_annotations.mm"/>
+<link type="file" name="Temp" path="project://155F2A007F45EZUZWX3FBUN6CM6RE7B3V4K9/_data/155F2A007F45EZUZWX3FBUN6CM6RE7B3V4K9/default_files/temp.mm" system="true"/>
+<link type="file" name="Trash" path="project://155F2A007F45EZUZWX3FBUN6CM6RE7B3V4K9/_data/155F2A007F45EZUZWX3FBUN6CM6RE7B3V4K9/default_files/trash.mm" system="true"/>
+</folder>
+<folder type="physical" name="My drafts" path="project://155F2A007F45EZUZWX3FBUN6CM6RE7B3V4K9/_data/155F2A007F45EZUZWX3FBUN6CM6RE7B3V4K9/My%20Drafts/"/>
+<folder type="literature_repository" name="Literature repository" system="true">
+<folder type="repository_path" name="default" path="file:/home/georges/Bureau/SECA/COMMUNICATION/GEN_THESIS//literature_repository"/>
+</folder>
+<link type="references" name="References" path="project://155F2A007F45EZUZWX3FBUN6CM6RE7B3V4K9/_data/155F2A007F45EZUZWX3FBUN6CM6RE7B3V4K9/default_files/GEN_THESIS.bib" system="true"/>
+</project>
