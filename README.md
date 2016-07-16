@@ -3,9 +3,7 @@
 Réflexions
 ==
 
-![alt text][image]
-
-[image] : https://github.com/a2kpi/gs_reconf/blob/master/howto_sccf_50.png
+![image](https://github.com/a2kpi/gs_reconf/blob/master/howto_sccf_50.png "carte mentale")
 
 Dynamiser pour s'approprier le projet SCCF national
 -
