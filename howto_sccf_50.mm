@@ -1,6 +1,6 @@
 <map version="freeplane 1.5.9">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="R&#xc9;FLEXIONS&#xa;&#xa;Dynamiser le SCCF_50&#xa;S&apos;approprier le projet national" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_1573594237" CREATED="1462710693327" MODIFIED="1468696157508" BACKGROUND_COLOR="#33ccff" STYLE="bubble" TEXT_ALIGN="CENTER" MAX_WIDTH="260.0 pt" MIN_WIDTH="182.0 pt" VGAP_QUANTITY="10.0 pt">
+<node TEXT="R&#xc9;FLEXIONS&#xa;&#xa;Dynamiser le SCCF_50&#xa;S&apos;approprier le projet national" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_1573594237" CREATED="1462710693327" MODIFIED="1468732479013" BACKGROUND_COLOR="#33ccff" STYLE="bubble" TEXT_ALIGN="CENTER" MAX_WIDTH="260.0 pt" MIN_WIDTH="182.0 pt" VGAP_QUANTITY="10.0 pt">
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1800473712" MIDDLE_LABEL="R&#xe9;veillons-nous !!!" STARTINCLINATION="-47;-57;" ENDINCLINATION="29;82;" STARTARROW="NONE" ENDARROW="NONE"/>
 <font SIZE="16"/>
 <hook NAME="MapStyle" background="#f7f7f7">
@@ -113,6 +113,7 @@
 </hook>
 <hook NAME="AutomaticEdgeColor" COUNTER="0" RULE="FOR_BRANCHES"/>
 <edge COLOR="#000000"/>
+<hook NAME="accessories/plugins/CreationModificationPlugin.properties"/>
 <node LOCALIZED_STYLE_REF="defaultstyle.floating" POSITION="right" ID="ID_1800473712" CREATED="1468682069958" MODIFIED="1468696137230" HGAP_QUANTITY="-49.5 pt" VSHIFT_QUANTITY="-185.25 pt" MAX_WIDTH="15.0 cm" MIN_WIDTH="11.0 cm" BACKGROUND_COLOR="#ffff99" STYLE="bubble" SHAPE_VERTICAL_MARGIN="0.5 cm"><richcontent TYPE="NODE">
 
 <html>
@@ -149,8 +150,8 @@
 </node>
 <node TEXT="Introduction et contexte" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" POSITION="right" ID="ID_1118780235" CREATED="1462729792536" MODIFIED="1468696153146" BACKGROUND_COLOR="#ccffcc" VGAP_QUANTITY="5.0 pt" HGAP_QUANTITY="92.0 pt" VSHIFT_QUANTITY="-26.25 pt">
 <node TEXT="Cette carte mentale est un essai.&#xa;&#xa;Ses objectifs sont :" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1001148534" CREATED="1468679307179" MODIFIED="1468694041166">
-<node TEXT="&lt;html&gt;&#xa;  &lt;head&gt;&#xa;    &#xa;  &lt;/head&gt;&#xa;  &lt;body&gt;&#xa;    &lt;p&gt;&#xa;      &lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;Bousculer&lt;/font&gt;&lt;/b&gt;&amp;#160;et &lt;b&gt;r&amp;#233;veiller&lt;/b&gt;&amp;#160;les consciences&#xa;    &lt;/p&gt;&#xa;  &lt;/body&gt;&#xa;&lt;/html&gt;" ID="ID_521513880" CREATED="1468679392141" MODIFIED="1468690402664">
-<node ID="ID_499854772" CREATED="1468689828393" MODIFIED="1468690458292" MAX_WIDTH="10.0 cm" MIN_WIDTH="5.0 cm" TEXT_ALIGN="LEFT"><richcontent TYPE="NODE">
+<node TEXT="&lt;html&gt;&#xa;  &lt;head&gt;&#xa;    &#xa;  &lt;/head&gt;&#xa;  &lt;body&gt;&#xa;    &lt;p&gt;&#xa;      &lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;Bousculer&lt;/b&gt;&lt;/font&gt;&amp;#160;et &lt;b&gt;r&amp;#233;veiller&lt;/b&gt;&amp;#160;les consciences&#xa;    &lt;/p&gt;&#xa;  &lt;/body&gt;&#xa;&lt;/html&gt;" ID="ID_521513880" CREATED="1468679392141" MODIFIED="1468690402664">
+<node ID="ID_499854772" CREATED="1468689828393" MODIFIED="1468740607111" MAX_WIDTH="10.0 cm" MIN_WIDTH="5.0 cm" TEXT_ALIGN="LEFT"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -185,7 +186,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -204,7 +204,7 @@
 
 </richcontent>
 </node>
-<node ID="ID_1709285574" CREATED="1468679455269" MODIFIED="1468679840361"><richcontent TYPE="NODE">
+<node ID="ID_1709285574" CREATED="1468679455269" MODIFIED="1468732635393"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -254,6 +254,7 @@
 <node TEXT="La fondation EMMA&#xdc;S" ID="ID_594347152" CREATED="1468693348420" MODIFIED="1468693364524"/>
 <node TEXT="Les assos d&apos;insertion" ID="ID_41889639" CREATED="1468693416526" MODIFIED="1468693425269"/>
 <node TEXT="Les Restos du Coeur" ID="ID_1594396953" CREATED="1468693433791" MODIFIED="1468693448557"/>
+<node TEXT="Le Secours Populaire" ID="ID_1875866871" CREATED="1468732160956" MODIFIED="1468732175861"/>
 </node>
 <node LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_326826058" CREATED="1468693538282" MODIFIED="1468695228714" HGAP_QUANTITY="20.75 pt" VSHIFT_QUANTITY="140.25 pt"><richcontent TYPE="NODE">
 
