@@ -12,7 +12,7 @@ Trouver des pistes pour s'approprier le projet SCCF national à l'échelle LOCAL
 (je mets régulièrement à jour cette image)
 
 
-Pour travailler ensemble c'est plus sympa, par exemple avec ces logiciels
+Travailler ensemble c'est plus sympa, par exemple avec ces logiciels
 -
 
 Sans aucun logiciel de carte mentale, vous pouvez simplement télécharger
