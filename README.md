@@ -5,8 +5,7 @@ Réflexions
 
 ![image](https://github.com/a2kpi/gs_reconf/blob/master/howto_sccf_50.png "carte mentale")
 
-Trouver des pistes pour s'approprier le projet SCCF national à l'échelle
-LOCALE.
+Trouver des pistes pour s'approprier le projet SCCF national à l'échelle LOCALE.
 --
 
 Pour travailler ensemble, nous pouvons utiliser ces logiciels
