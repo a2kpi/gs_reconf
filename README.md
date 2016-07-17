@@ -7,11 +7,9 @@ Réflexions
 
 Trouver des pistes pour s'approprier le projet SCCF national à l'échelle
 LOCALE.
-
 --
 
 Pour travailler ensemble, nous pouvons utiliser ces logiciels
-
 -
 
 Sans aucun logiciel de carte mentale, vous pouvez simplement télécharger
