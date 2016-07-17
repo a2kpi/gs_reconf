@@ -3,12 +3,16 @@
 Réflexions
 ==
 
-![image](https://github.com/a2kpi/gs_reconf/blob/master/howto_sccf_50.png "carte mentale")
-
 Trouver des pistes pour s'approprier le projet SCCF national à l'échelle LOCALE.
 --
 
-Pour travailler ensemble, nous pouvons utiliser ces logiciels
+![image](https://github.com/a2kpi/gs_reconf/blob/master/howto_sccf_50.png "carte mentale")
+
+
+(je mets régulièrement à jour cette image)
+
+
+Pour travailler ensemble c'est plus sympa, par exemple avec ces logiciels
 -
 
 Sans aucun logiciel de carte mentale, vous pouvez simplement télécharger
