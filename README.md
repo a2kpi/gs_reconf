@@ -15,7 +15,7 @@ Trouver des pistes pour s'approprier le projet SCCF national à l'échelle LOCAL
 Travailler ensemble c'est plus sympa, par exemple avec ces logiciels
 -
 
-Sans aucun** logiciel de carte mentale, vous pouvez simplement télécharger
+Sans aucun **logiciel de carte mentale, vous pouvez simplement télécharger
 l'image pour voir les évolutions**
 
 Freeplane : pour visualiser et participer aux cartes mentales (open
