@@ -18,8 +18,8 @@ Travailler ensemble c'est plus sympa, par exemple avec ces logiciels
 Sans aucun logiciel de carte mentale, vous pouvez simplement télécharger
 l'image pour voir les évolutions
 
-<small>
-Freeplane : pour visualiser et participer aux cartes mentales (open source)
+<small>Freeplane : pour visualiser et participer aux cartes mentales (open
+source)</small>
 
 Freeplane : https://sourceforge.net/projects/freeplane/
 
