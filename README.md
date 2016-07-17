@@ -15,11 +15,11 @@ Trouver des pistes pour s'approprier le projet SCCF national à l'échelle LOCAL
 Travailler ensemble c'est plus sympa, par exemple avec ces logiciels
 -
 
-**Sans aucun** logiciel de carte mentale, vous pouvez simplement télécharger
+Sans aucun** logiciel de carte mentale, vous pouvez simplement télécharger
 l'image pour voir les évolutions
 
-<small>Freeplane : pour visualiser et participer aux cartes mentales (open
-source)</small>
+Freeplane : pour visualiser et participer aux cartes mentales (open
+source)
 
 Freeplane : https://sourceforge.net/projects/freeplane/
 
@@ -36,4 +36,3 @@ et pour aller encore plus loin, et plus fort :
 Git est un logiciel de gestion de versions, locales et en lignes :  
 
 Git : https://git-for-windows.github.io/
-</small>
