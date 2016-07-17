@@ -16,7 +16,7 @@ Travailler ensemble c'est plus sympa, par exemple avec ces logiciels
 -
 
 Sans aucun** logiciel de carte mentale, vous pouvez simplement télécharger
-l'image pour voir les évolutions
+l'image pour voir les évolutions**
 
 Freeplane : pour visualiser et participer aux cartes mentales (open
 source)
@@ -36,4 +36,3 @@ et pour aller encore plus loin, et plus fort :
 Git est un logiciel de gestion de versions, locales et en lignes :  
 
 Git : https://git-for-windows.github.io/
-**
