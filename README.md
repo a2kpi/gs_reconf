@@ -10,6 +10,9 @@
 (je mets régulièrement à jour cette image)
 
 
+(si la carte est trop lourde, préférez la version vectorielle ".svg")
+
+
 ###Travailler ensemble c'est plus sympa, par exemple avec ces logiciels
 
 Sans aucun **logiciel de carte mentale, vous pouvez simplement télécharger
