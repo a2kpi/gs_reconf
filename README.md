@@ -4,7 +4,7 @@
 
 ###Trouver des pistes pour s'approprier le projet SCCF national à l'échelle LOCALE.
 
-![image carte mentale](https://github.com/a2kpi/gs_reconf/blob/master/howto_sccf_50.png)
+![image carte mentale](https://github.com/a2kpi/gs_reconf/blob/master/howto_sccf_50.svg)
 
 
 (je mets régulièrement à jour cette image)
